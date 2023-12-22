@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535437951539",
+    "project_id": "chatkhuldi",
+    "storage_bucket": "chatkhuldi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535437951539:android:48a86a50387d4ca60d1946",
+        "android_client_info": {
+          "package_name": "com.hapra.chatkhuldi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyrXevgZh8zh8rrlLC4R-SHxtoc3_CKS8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
